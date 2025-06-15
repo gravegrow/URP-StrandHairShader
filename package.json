@@ -1,8 +1,8 @@
 {
-  "name": "com.gravegrow.urp-strandhairshader",
+  "name": "com.gravegrow.strandhairshader",
   "version": "1.0.0",
   "displayName": "URP Strand Hair Shader",
   "description": "URP Strand Hair Shader",
-  "unity": "6000.0",
+  "unity": "6000.0"
 }
 
